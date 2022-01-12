@@ -1,4 +1,5 @@
 ### Hi there 👋
+My nickname is warkov and I'm a begginer developer
 
 <!--
 **warkov/warkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
